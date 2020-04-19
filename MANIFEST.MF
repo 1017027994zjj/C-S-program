@@ -1,0 +1,3 @@
+Manifest-Version:/课设/lib/substance.jar
+Main-Class: 登陆界面.Login
+
